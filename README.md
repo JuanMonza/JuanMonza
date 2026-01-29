@@ -1,8 +1,8 @@
 # 🚀 Hola, soy Juan Monza
 
-### 💻 Desarrollador Full Stack | Marketing Manager | Innovación en Jardines del Renacer
+### 💻 Desarrollador Full Stack | Marketing Manager | Innovación y Desarrollo Web
 
-¡Bienvenido! Soy un desarrollador enfocado en crear sistemas que fusionan tecnología y negocio. Me especializo en transformar procesos manuales en **SaaS escalables** y crear experiencias interactivas con **Realidad Aumentada**.
+¡Bienvenido! Soy un desarrollador enfocado en crear sistemas que fusionan tecnología y negocio. Me especializo en transformar procesos manuales en **SaaS escalables** y más.
 
 ---
 
@@ -36,14 +36,6 @@ Videojuego estilo clásico desarrollado con lógica de programación avanzada.
 
 ---
 
-### 🚧 Proyectos en Desarrollo (Labs)
-
-* **⏳ Fila Cero:** Aplicación para gestión inteligente de colas y tiempos de espera (Enfoque Marketing + UX).
-* **🕯️ Sala 1 Virtual:** Sistema de condolencias digitales con acceso QR para salas de velación.
-* **🕶️ Tour Virtual 360°:** Experiencia inmersiva de recorrido con integración de cámara 360.
-
----
-
 ### 🛠️ Arsenal Tecnológico
 
 <div align="left">
@@ -53,12 +45,16 @@ Videojuego estilo clásico desarrollado con lógica de programación avanzada.
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 ---
@@ -75,13 +71,13 @@ Videojuego estilo clásico desarrollado con lógica de programación avanzada.
 ### 🌐 Conectemos
 
 <div align="left">
-  <a href="https://linkedin.com/in/TU-USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-monza-72ba89278/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/TU-USUARIO" target="_blank">
+  <a href="https://www.instagram.com/el_juancho_mz/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://facebook.com/TU-USUARIO" target="_blank">
+  <a href="https://www.facebook.com/juankux.BAE" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
