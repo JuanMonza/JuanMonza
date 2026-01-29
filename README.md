@@ -1,17 +1,38 @@
 # 🚀 Hola, soy Juan Monza
 
-### 💻 Desarrollador Full Stack | Marketing Digital | Jardines del Renacer
+### 💻 Desarrollador Full Stack | Marketing Manager | Innovación en Jardines del Renacer
 
-¡Bienvenido a mi hub de desarrollo! Combino el código con estrategias de marketing para crear soluciones web impactantes.
+¡Bienvenido! Soy un desarrollador enfocado en crear sistemas que fusionan tecnología y negocio. Me especializo en transformar procesos manuales en **SaaS escalables** y crear experiencias interactivas con **Realidad Aumentada**.
 
-- 🏢 **Actualmente:** Desarrollando soluciones web y apps para **Jardines del Renacer**.
-- ⚙️ **Stack Principal:** MERN (MongoDB, Express, React, Node) + Next.js.
-- 🔭 **Proyectos Recientes:**
-  - *Renacer Mascotas V2* (Rebranding y optimización)
-  - *Valens Christmas* (E-commerce temático)
-  - *Sistemas de Condolencias QR*
-- 🌱 **Aprendiendo:** TypeScript y Capacitor para desarrollo móvil híbrido.
-- ⚡ **Dato:** Me apasiona optimizar no solo el código, sino la experiencia de usuario y la conversión.
+---
+
+### 🏆 Top 5 Proyectos Principales
+
+#### 1. 🛒 **SaaS Para Tiendas 2026 (Flagship Project)**
+> *Proyecto Privado - `web_pag_ten_2026`*
+Plataforma integral SaaS para la gestión de inventarios y ventas en retail.
+- **Tech Stack:** MERN (MongoDB, Express, React, Node) + Next.js.
+- **Reto:** Arquitectura escalable para manejar múltiples tiendas, control de stock y flujo de caja en tiempo real.
+
+#### 2. 🏞️ **[Parque Conmemorativo](https://github.com/JuanMonza/Jardines-del-Renacer-2025)**
+Sistema integral para la administración y visualización del parque cementerio.
+- **Funcionalidad:** Gestión de ubicación de lotes y mapas interactivos para visitantes.
+- **Impacto:** Digitalización del inventario en tierra y optimización de la búsqueda de ubicaciones para las familias.
+
+#### 3. 🐶 **[Renacer Mascotas V2](https://github.com/JuanMonza/Renacer-mascotas-V2)**
+Refactorización completa y rebranding del portal de servicios para mascotas.
+- **Mejora:** Migración de código legacy a estándares modernos de **JavaScript y CSS3**.
+- **Diseño:** Nueva identidad visual con paleta corporativa (`#3d5a73` y `#b71c1c`) enfocada en conversión.
+
+#### 4. 🦖 **Reto Explorador de Especies (AR / Realidad Aumentada)**
+Aplicación educativa interactiva que utiliza Realidad Aumentada para visualizar animales extintos.
+- **Innovación:** Uso de **Códigos QR** como activadores para desplegar modelos 3D en el entorno real.
+- **Stack:** Tecnologías web inmersivas y optimización para móviles.
+
+#### 5. 🎮 **Bomberman Game (GBL / Aprendizaje Basado en Juegos)**
+Videojuego estilo clásico desarrollado con lógica de programación avanzada.
+- **Features:** Sistema de registro de usuarios, niveles progresivos y gestión de estados.
+- **Objetivo:** Demostración de lógica algorítmica compleja y manejo de eventos en tiempo real.
 
 ---
 
@@ -20,19 +41,18 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+### 📊 Actividad en GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JuanMonza&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
@@ -49,8 +69,5 @@
   </a>
   <a href="https://instagram.com/TU-USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-   <a href="mailto:tuemail@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
