@@ -1,6 +1,6 @@
 # Hola, soy Juan Monza
 
-### 💻 Desarrollador Full Stack | Marketing Manager | Innovación y Desarrollo Web
+### Desarrollador Full Stack | Marketing Manager | Innovación y Desarrollo Web
 
 ¡Bienvenido! Soy un desarrollador enfocado en crear sistemas que fusionan tecnología y negocio. Me especializo en transformar procesos manuales en **SaaS escalables** y más.
 
