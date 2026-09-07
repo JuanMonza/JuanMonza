@@ -20,7 +20,7 @@ Diseño y desarrollo soluciones de software combinando **ingeniería Full Stack,
 
 ---
 
-## About / Sobre mí
+# Sobre mí
 
 <table>
 <tr>
@@ -137,6 +137,7 @@ Aura busca unificar diferentes procesos dentro de una sola aplicación administr
 - Presentaciones
 
 </td>
+
 <td width="50%" valign="top">
 
 ### Management
@@ -446,11 +447,15 @@ Registro, captura de información y participación.
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
-**UI / Experience**
+### UI / Experience
 
-`HTML5` · `CSS3` · `Responsive Design`
-
-`Component Architecture` · `UX/UI`
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Responsive_Design-0EA5E9?style=flat-square" alt="Responsive Design"/>
+<img src="https://img.shields.io/badge/Component_Architecture-0284C7?style=flat-square" alt="Component Architecture"/>
+<img src="https://img.shields.io/badge/UX%2FUI-0369A1?style=flat-square" alt="UX/UI"/>
+</p>
 
 </td>
 
@@ -464,13 +469,17 @@ Registro, captura de información y participación.
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
 </p>
 
-**Engineering**
+### Engineering
 
-`REST APIs` · `Server Actions`
-
-`Authentication` · `RBAC`
-
-`bcrypt` · `JOSE` · `Protected Routes`
+<p>
+<img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Server_Actions-2563EB?style=flat-square" alt="Server Actions"/>
+<img src="https://img.shields.io/badge/Authentication-7C3AED?style=flat-square" alt="Authentication"/>
+<img src="https://img.shields.io/badge/RBAC-8B5CF6?style=flat-square" alt="RBAC"/>
+<img src="https://img.shields.io/badge/bcrypt-9333EA?style=flat-square" alt="bcrypt"/>
+<img src="https://img.shields.io/badge/JOSE-A855F7?style=flat-square" alt="JOSE"/>
+<img src="https://img.shields.io/badge/Protected_Routes-C084FC?style=flat-square" alt="Protected Routes"/>
+</p>
 
 </td>
 </tr>
@@ -487,7 +496,10 @@ Registro, captura de información y participación.
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-`Firebase` · `Database Design`
+<p>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Database_Design-0F766E?style=flat-square" alt="Database Design"/>
+</p>
 
 </td>
 
@@ -497,21 +509,21 @@ Registro, captura de información y participación.
 
 ### Applied AI
 
-`Prompt Engineering`
+<p>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/Structured_Prompting-8B5CF6?style=for-the-badge" alt="Structured Prompting"/>
+<img src="https://img.shields.io/badge/Context_Design-A855F7?style=for-the-badge" alt="Context Design"/>
+<img src="https://img.shields.io/badge/Prompt_Optimization-C084FC?style=for-the-badge" alt="Prompt Optimization"/>
+</p>
 
-`Structured Prompting`
+<p>
+<img src="https://img.shields.io/badge/AI--assisted_Development-4F46E5?style=for-the-badge" alt="AI-assisted Development"/>
+<img src="https://img.shields.io/badge/AI_Workflows-4338CA?style=for-the-badge" alt="AI Workflows"/>
+<img src="https://img.shields.io/badge/Generative_AI-3730A3?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Automation-312E81?style=for-the-badge" alt="Automation"/>
+</p>
 
-`Context Design`
-
-`Prompt Optimization`
-
-`AI-assisted Development`
-
-`AI Workflows`
-
-`Generative AI`
-
-`Automation`
+> Applied AI for product development, workflow design and business-oriented automation.
 
 </td>
 </tr>
@@ -533,7 +545,10 @@ Registro, captura de información y participación.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-`npm` · `Node.js`
+<p>
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
 
 </td>
 
@@ -542,13 +557,14 @@ Registro, captura de información y participación.
 ### Operating Systems
 
 <p>
-<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows"/>
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-`Development Environments`
-
-`Production Environments`
+<p>
+<img src="https://img.shields.io/badge/Development_Environments-334155?style=flat-square" alt="Development Environments"/>
+<img src="https://img.shields.io/badge/Production_Environments-475569?style=flat-square" alt="Production Environments"/>
+</p>
 
 </td>
 
@@ -560,11 +576,11 @@ Registro, captura de información y participación.
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
 
-`Environment Variables`
-
-`Production Deployments`
-
-`Domain Configuration`
+<p>
+<img src="https://img.shields.io/badge/Environment_Variables-1D4ED8?style=flat-square" alt="Environment Variables"/>
+<img src="https://img.shields.io/badge/Production_Deployments-2563EB?style=flat-square" alt="Production Deployments"/>
+<img src="https://img.shields.io/badge/Domain_Configuration-3B82F6?style=flat-square" alt="Domain Configuration"/>
+</p>
 
 </td>
 </tr>
@@ -574,13 +590,12 @@ Registro, captura de información y participación.
 
 ### Servers
 
-`Web Servers`
-
-`Application Servers`
-
-`Database Servers`
-
-`Production Servers`
+<p>
+<img src="https://img.shields.io/badge/Web_Servers-0F172A?style=flat-square" alt="Web Servers"/>
+<img src="https://img.shields.io/badge/Application_Servers-1E293B?style=flat-square" alt="Application Servers"/>
+<img src="https://img.shields.io/badge/Database_Servers-334155?style=flat-square" alt="Database Servers"/>
+<img src="https://img.shields.io/badge/Production_Servers-475569?style=flat-square" alt="Production Servers"/>
+</p>
 
 </td>
 
@@ -588,15 +603,13 @@ Registro, captura de información y participación.
 
 ### Integrations
 
-`REST APIs`
-
-`Webhooks`
-
-`JSON`
-
-`Email`
-
-`Authentication`
+<p>
+<img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Webhooks-06B6D4?style=flat-square" alt="Webhooks"/>
+<img src="https://img.shields.io/badge/JSON-0891B2?style=flat-square" alt="JSON"/>
+<img src="https://img.shields.io/badge/Email-0F766E?style=flat-square" alt="Email"/>
+<img src="https://img.shields.io/badge/Authentication-0D9488?style=flat-square" alt="Authentication"/>
+</p>
 
 </td>
 
@@ -604,17 +617,14 @@ Registro, captura de información y participación.
 
 ### Data & Media
 
-`XLSX`
-
-`PDF`
-
-`QR`
-
-`Barcodes`
-
-`Matterport`
-
-`Marzipano`
+<p>
+<img src="https://img.shields.io/badge/XLSX-166534?style=flat-square" alt="XLSX"/>
+<img src="https://img.shields.io/badge/PDF-B91C1C?style=flat-square" alt="PDF"/>
+<img src="https://img.shields.io/badge/QR-7C3AED?style=flat-square" alt="QR"/>
+<img src="https://img.shields.io/badge/Barcodes-6D28D9?style=flat-square" alt="Barcodes"/>
+<img src="https://img.shields.io/badge/Matterport-2563EB?style=flat-square" alt="Matterport"/>
+<img src="https://img.shields.io/badge/Marzipano-0284C7?style=flat-square" alt="Marzipano"/>
+</p>
 
 </td>
 </tr>
@@ -631,39 +641,39 @@ Registro, captura de información y participación.
 </div>
 
 ```text
-┌──────────────┐
-│    CLIENT    │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│   FRONTEND   │
-│ Next · React │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│ API / SERVER │
-│ Node · Exp.  │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│ BUSINESS LOGIC
-│ Auth · RBAC  │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│     DATA     │
-│ SQL · NoSQL  │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│ PRODUCTION   │
-│ Cloud/Server │
-└──────────────┘
+┌──────────────────────────────────────────────────────────┐
+│                       USER / CLIENT                      │
+└────────────────────────────┬─────────────────────────────┘
+                             │
+                             ▼
+┌──────────────────────────────────────────────────────────┐
+│                         FRONTEND                         │
+│            Next.js · React · TypeScript · UI            │
+└────────────────────────────┬─────────────────────────────┘
+                             │
+                             ▼
+┌──────────────────────────────────────────────────────────┐
+│                       API / SERVER                       │
+│              Node.js · Express · Server Actions         │
+└────────────────────────────┬─────────────────────────────┘
+                             │
+                             ▼
+┌──────────────────────────────────────────────────────────┐
+│                     BUSINESS LOGIC                       │
+│        Authentication · Roles · Rules · Workflows       │
+└────────────────────────────┬─────────────────────────────┘
+                             │
+                             ▼
+┌──────────────────────────────────────────────────────────┐
+│                          DATA                            │
+│ PostgreSQL · MySQL · Supabase · MongoDB · Firebase      │
+└────────────────────────────┬─────────────────────────────┘
+                             │
+                             ▼
+┌──────────────────────────────────────────────────────────┐
+│                 DEPLOYMENT & PRODUCTION                  │
+│           Vercel · Servers · GitHub · Monitoring        │
+└──────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
@@ -676,9 +686,9 @@ Registro, captura de información y participación.
 
 ---
 
-<div align="center">
+# Engineering Profile
 
-# ENGINEERING PROFILE
+<div align="center">
 
 ### Software · Architecture · AI · Product
 
@@ -688,7 +698,7 @@ Registro, captura de información y participación.
 <tr>
 <td width="25%" align="center" valign="top">
 
-### FULL STACK
+### ⚙️ Full Stack
 
 Frontend  
 Backend  
@@ -700,7 +710,7 @@ Production
 
 <td width="25%" align="center" valign="top">
 
-### ARCHITECTURE
+### Architecture
 
 System Design  
 Business Logic  
@@ -711,7 +721,7 @@ Scalable Systems
 
 <td width="25%" align="center" valign="top">
 
-### AI ENGINEERING
+### AI Engineering
 
 Prompt Engineering  
 AI Workflows  
@@ -722,7 +732,7 @@ Generative AI
 
 <td width="25%" align="center" valign="top">
 
-### PRODUCT
+###Product
 
 SaaS  
 Business Systems  
@@ -733,7 +743,19 @@ Interactive Experiences
 </tr>
 </table>
 
-### Engineering
+<div align="center">
+
+### BUILD → SHIP → MEASURE → IMPROVE
+
+</div>
+
+<br>
+
+<details>
+
+<summary><strong>View engineering object</strong></summary>
+
+<br>
 
 ```typescript
 const juanMonza = {
@@ -787,6 +809,8 @@ const juanMonza = {
 };
 ```
 
+</details>
+
 ---
 
 # Integrations & Digital Systems
@@ -797,19 +821,15 @@ const juanMonza = {
 
 ### Business Systems
 
-`Wompi / PSE`
-
-`REST APIs`
-
-`Authentication Systems`
-
-`Email Integrations`
-
-`QR Systems`
-
-`Barcode Systems`
-
-`Data Export`
+<p>
+<img src="https://img.shields.io/badge/Wompi%20%2F%20PSE-6D28D9?style=flat-square" alt="Wompi PSE"/>
+<img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Authentication_Systems-7C3AED?style=flat-square" alt="Authentication Systems"/>
+<img src="https://img.shields.io/badge/Email_Integrations-0F766E?style=flat-square" alt="Email Integrations"/>
+<img src="https://img.shields.io/badge/QR_Systems-9333EA?style=flat-square" alt="QR Systems"/>
+<img src="https://img.shields.io/badge/Barcode_Systems-6D28D9?style=flat-square" alt="Barcode Systems"/>
+<img src="https://img.shields.io/badge/Data_Export-166534?style=flat-square" alt="Data Export"/>
+</p>
 
 </td>
 
@@ -817,19 +837,15 @@ const juanMonza = {
 
 ### Digital Experiences
 
-`Matterport`
-
-`Marzipano`
-
-`360° Experiences`
-
-`Web AR`
-
-`Interactive Maps`
-
-`Dashboards`
-
-`Multimedia Platforms`
+<p>
+<img src="https://img.shields.io/badge/Matterport-2563EB?style=flat-square" alt="Matterport"/>
+<img src="https://img.shields.io/badge/Marzipano-0284C7?style=flat-square" alt="Marzipano"/>
+<img src="https://img.shields.io/badge/360%C2%B0_Experiences-0369A1?style=flat-square" alt="360 Experiences"/>
+<img src="https://img.shields.io/badge/Web_AR-7C3AED?style=flat-square" alt="Web AR"/>
+<img src="https://img.shields.io/badge/Interactive_Maps-0891B2?style=flat-square" alt="Interactive Maps"/>
+<img src="https://img.shields.io/badge/Dashboards-0F766E?style=flat-square" alt="Dashboards"/>
+<img src="https://img.shields.io/badge/Multimedia_Platforms-334155?style=flat-square" alt="Multimedia Platforms"/>
+</p>
 
 </td>
 </tr>
@@ -845,9 +861,15 @@ const juanMonza = {
 
 <br>
 
-`SaaS` · `Enterprise Platforms` · `AI Workflows` · `Automation` · `Digital Experiences`
+<p>
+<img src="https://img.shields.io/badge/SaaS-111827?style=for-the-badge" alt="SaaS"/>
+<img src="https://img.shields.io/badge/Enterprise_Platforms-1D4ED8?style=for-the-badge" alt="Enterprise Platforms"/>
+<img src="https://img.shields.io/badge/AI_Workflows-7C3AED?style=for-the-badge" alt="AI Workflows"/>
+<img src="https://img.shields.io/badge/Automation-4338CA?style=for-the-badge" alt="Automation"/>
+<img src="https://img.shields.io/badge/Digital_Experiences-0284C7?style=for-the-badge" alt="Digital Experiences"/>
+</p>
 
-<br><br>
+<br>
 
 ---
 
