@@ -1,5 +1,7 @@
 
-# Hola, soy Juan Monza 
+<div align="center">
+
+# Hola, soy Juan Monza
 
 ### Full Stack Software Engineer · AI & Prompt Engineer
 
@@ -7,11 +9,13 @@
 
 Diseño y desarrollo soluciones de software combinando **ingeniería Full Stack, arquitectura de aplicaciones y Prompt Engineering**, transformando necesidades reales de negocio en productos digitales modernos, escalables e inteligentes.
 
+</div>
+
 ---
 
 ## Sobre mí
 
-Soy desarrollador **Full Stack Software Engineer y Prompt Engineer**, especializado en crear aplicaciones web, plataformas empresariales y productos digitales orientados a resolver necesidades reales de negocio.
+Soy **Full Stack Software Engineer y Prompt Engineer**, especializado en crear aplicaciones web, plataformas empresariales y productos digitales orientados a resolver necesidades reales de negocio.
 
 Trabajo desde el análisis del problema y la definición de la arquitectura hasta el desarrollo Frontend y Backend, bases de datos, autenticación, integraciones, despliegue y evolución del producto.
 
@@ -29,7 +33,7 @@ Mi experiencia incluye:
 - APIs e integraciones
 - Autenticación y gestión de roles
 - Sistemas QR
-- Dashboards
+- Dashboards y analítica
 - Exportación de datos
 - Automatización de procesos
 - Pagos digitales
@@ -49,7 +53,7 @@ Mi experiencia incluye:
 
 Plataforma centralizada desarrollada para administrar experiencias digitales, contenido multimedia y operación de salas en múltiples sedes.
 
-Aura busca unificar diferentes procesos dentro de una sola aplicación administrativa.
+Aura busca unificar diferentes procesos dentro de una sola aplicación administrativa, permitiendo gestionar la experiencia digital desde un entorno centralizado.
 
 ### Principales funcionalidades
 
@@ -62,7 +66,7 @@ Aura busca unificar diferentes procesos dentro de una sola aplicación administr
 - Administración de usuarios
 - Roles y permisos
 - Panel administrativo
-- Gestión centralizada
+- Configuración centralizada
 
 ### Arquitectura
 
@@ -100,8 +104,7 @@ El proyecto integra múltiples módulos corporativos dentro de una arquitectura 
 - Directorio de sedes
 - Mapa interactivo de Colombia
 - Obituarios digitales
-- Campañas
-- Beneficios
+- Campañas y beneficios
 - Acompañamiento en duelo
 - Administración de contenido
 - Sistemas QR
@@ -110,7 +113,7 @@ El proyecto integra múltiples módulos corporativos dentro de una arquitectura 
 - Formularios
 - Experiencias responsive
 
-### Tecnologías verificadas
+### Tecnologías
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `MySQL` · `Framer Motion` · `bcrypt` · `JOSE` · `Recharts` · `QR` · `XLSX` · `Nodemailer`
 
@@ -138,7 +141,7 @@ Digital Ecosystem
 
 Proyecto de modernización integral para el ecosistema digital de **Renacer Mascotas**.
 
-El trabajo incluye desarrollo, refactorización, experiencia de usuario y actualización de la identidad visual digital.
+El trabajo combina desarrollo, refactorización, experiencia de usuario y actualización de la identidad visual digital.
 
 ### Trabajo realizado
 
@@ -253,62 +256,84 @@ Registro / Participación
 
 ## Frontend
 
-\<p>
-\<img src="[https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)"/>
-\<img src="[https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)"/>
-\<img src="[https://img.shields.io/badge/Tailwind\_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)"/>
-\</p>
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
 ## Backend
 
-\<p>
-\<img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)"/>
-\</p>
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+</p>
 
 ## Databases
 
-\<p>
-\<img src="[https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)"/>
-\</p>
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+## AI & Prompt Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/AI_Workflows-5A29E4?style=for-the-badge" alt="AI Workflows"/>
+</p>
+
+Experiencia aplicada en:
+
+`Prompt Engineering` · `AI-assisted Development` · `Structured Prompting` · `AI Workflows` · `Generative AI`
 
 ## Tools & Infrastructure
 
-\<p>
-\<img src="[https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)"/>
-\</p>
+<p>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
 ---
 
 # Backend & Architecture
 
-Trabajo con componentes esenciales para construir aplicaciones empresariales completas:
+Además del desarrollo de interfaces, trabajo con los diferentes componentes que forman una aplicación empresarial completa.
 
 ```text
-Client
-   │
-   ▼
-Frontend
-   │
-   ▼
-API / Server
-   │
-   ▼
-Business Logic
-   │
-   ▼
-Database
+┌─────────────────────┐
+│       Client        │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│      Frontend       │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│    API / Server     │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│   Business Logic    │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│      Database       │
+└─────────────────────┘
 ```
 
 ### Experiencia
@@ -341,13 +366,13 @@ He desarrollado soluciones relacionadas con:
 
 # GitHub Activity
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://github-readme-stats.vercel.app/api?username=JuanMonza&show\_icons=true&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api?username=JuanMonza\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JuanMonza&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Juan Monza GitHub Stats"/>
 
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMonza&layout=compact&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMonza\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMonza&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Juan Monza Top Languages"/>
 
-\</div>
+</div>
 
 ---
 
@@ -355,7 +380,10 @@ He desarrollado soluciones relacionadas con:
 
 ```typescript
 const juanMonza = {
-  role: "Full Stack Software Engineer & Prompt Engineer",
+  role: [
+    "Full Stack Software Engineer",
+    "AI & Prompt Engineer"
+  ],
 
   focus: [
     "Business Applications",
@@ -390,9 +418,10 @@ const juanMonza = {
   specialties: [
     "Software Architecture",
     "Prompt Engineering",
+    "AI Workflows",
     "Interactive Experiences",
     "Business Systems",
-    "Scalable Products"
+    "Scalable Digital Products"
   ],
 
   philosophy:
@@ -404,7 +433,7 @@ const juanMonza = {
 
 # Contacto
 
-\<div align="center">
+<div align="center">
 
 ### ¿Construimos algo?
 
@@ -412,15 +441,11 @@ Estoy abierto a oportunidades, colaboraciones y proyectos relacionados con:
 
 **Full Stack Development · Prompt Engineering · SaaS · Software Engineering · AI Solutions · Digital Products**
 
-\<br/>
-
-\<br/>
-
----
+<br/>
 
 ### `Build. Ship. Improve.`
 
 **Software diseñado para resolver problemas reales.**
 
-\</div>
+</div>
 
