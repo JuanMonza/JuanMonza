@@ -1706,39 +1706,181 @@ const juanMonza = {
 
 </tr>
 </table>
-
 ---
 
 <div align="center">
 
 # CURRENT FOCUS
 
-### Building digital systems that connect technology with real business operations
+### Building production-ready software for real business operations
 
 <br>
 
 <p>
-<img src="https://img.shields.io/badge/SaaS-334155?style=flat-square" alt="SaaS"/>
-<img src="https://img.shields.io/badge/Enterprise_Platforms-1D4ED8?style=flat-square" alt="Enterprise Platforms"/>
-<img src="https://img.shields.io/badge/AI_Workflows-6D28D9?style=flat-square" alt="AI Workflows"/>
-<img src="https://img.shields.io/badge/Automation-0891B2?style=flat-square" alt="Automation"/>
-<img src="https://img.shields.io/badge/Digital_Experiences-0369A1?style=flat-square" alt="Digital Experiences"/>
+  <img src="https://img.shields.io/badge/SaaS-111827?style=for-the-badge" alt="SaaS"/>
+  <img src="https://img.shields.io/badge/Business_Systems-0F766E?style=for-the-badge" alt="Business Systems"/>
+  <img src="https://img.shields.io/badge/AI_Workflows-6D28D9?style=for-the-badge" alt="AI Workflows"/>
+  <img src="https://img.shields.io/badge/Automation-0369A1?style=for-the-badge" alt="Automation"/>
+  <img src="https://img.shields.io/badge/Digital_Products-A16207?style=for-the-badge" alt="Digital Products"/>
 </p>
 
 <br>
 
----
+<table>
+<tr>
 
-## ¿Construimos algo?
+<td width="33%" align="center" valign="top">
 
-Estoy abierto a oportunidades, colaboraciones y proyectos relacionados con:
+### BUILD
 
-**Full Stack Development · Software Engineering · Prompt Engineering · SaaS · AI Solutions · Digital Products**
+<img src="https://img.shields.io/badge/01-PRODUCT_ENGINEERING-1D4ED8?style=flat-square" alt="Product Engineering"/>
+
+<br><br>
+
+<p>
+<img src="https://img.shields.io/badge/Full_Stack-1D4ED8?style=flat-square" alt="Full Stack"/>
+<img src="https://img.shields.io/badge/SaaS-334155?style=flat-square" alt="SaaS"/>
+<img src="https://img.shields.io/badge/Business_Systems-0F766E?style=flat-square" alt="Business Systems"/>
+</p>
+
+`Frontend` · `Backend` · `Data`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### CONNECT
+
+<img src="https://img.shields.io/badge/02-SYSTEM_INTEGRATION-0891B2?style=flat-square" alt="System Integration"/>
+
+<br><br>
+
+<p>
+<img src="https://img.shields.io/badge/APIs-0891B2?style=flat-square" alt="APIs"/>
+<img src="https://img.shields.io/badge/Automation-0369A1?style=flat-square" alt="Automation"/>
+<img src="https://img.shields.io/badge/AI_Workflows-6D28D9?style=flat-square" alt="AI Workflows"/>
+</p>
+
+`Services` · `Workflows` · `Integrations`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### SHIP
+
+<img src="https://img.shields.io/badge/03-PRODUCTION_DELIVERY-15803D?style=flat-square" alt="Production Delivery"/>
+
+<br><br>
+
+<p>
+<img src="https://img.shields.io/badge/Deployments-15803D?style=flat-square" alt="Deployments"/>
+<img src="https://img.shields.io/badge/Hosting-C2410C?style=flat-square" alt="Hosting"/>
+<img src="https://img.shields.io/badge/Infrastructure-475569?style=flat-square" alt="Infrastructure"/>
+</p>
+
+`Cloud` · `Servers` · `Production`
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
+<p>
+<img src="https://img.shields.io/badge/BUILD-111827?style=flat-square" alt="Build"/>
+<img src="https://img.shields.io/badge/SHIP-1D4ED8?style=flat-square" alt="Ship"/>
+<img src="https://img.shields.io/badge/MEASURE-0891B2?style=flat-square" alt="Measure"/>
+<img src="https://img.shields.io/badge/IMPROVE-6D28D9?style=flat-square" alt="Improve"/>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+# LET'S BUILD SOMETHING
+
+### Open to engineering opportunities, collaborations and ambitious digital products
+
+<br>
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### ENGINEERING
+
+<p>
+<img src="https://img.shields.io/badge/Full_Stack_Development-1D4ED8?style=flat-square" alt="Full Stack Development"/>
+<img src="https://img.shields.io/badge/Software_Architecture-334155?style=flat-square" alt="Software Architecture"/>
+<img src="https://img.shields.io/badge/API_Design-0891B2?style=flat-square" alt="API Design"/>
+<img src="https://img.shields.io/badge/Database_Design-15803D?style=flat-square" alt="Database Design"/>
+<img src="https://img.shields.io/badge/Production_Deployment-B91C1C?style=flat-square" alt="Production Deployment"/>
+</p>
+
+**I build systems from idea to production.**
+
+`Architecture` → `Application` → `Data` → `Deployment`
+
+</td>
+
+<td width="50%" valign="top">
+
+### PRODUCT & AI
+
+<p>
+<img src="https://img.shields.io/badge/SaaS-A16207?style=flat-square" alt="SaaS"/>
+<img src="https://img.shields.io/badge/Business_Systems-0F766E?style=flat-square" alt="Business Systems"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-6D28D9?style=flat-square" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/AI_Workflows-7E22CE?style=flat-square" alt="AI Workflows"/>
+<img src="https://img.shields.io/badge/Automation-0369A1?style=flat-square" alt="Automation"/>
+</p>
+
+**I connect software, business logic and AI-assisted workflows.**
+
+`Product` → `Automation` → `Scale`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### CURRENT BUILD MODE
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-059669?style=for-the-badge" alt="Building"/>
+<img src="https://img.shields.io/badge/FOCUS-SCALABLE_SYSTEMS-2563EB?style=for-the-badge" alt="Scalable Systems"/>
+<img src="https://img.shields.io/badge/MODE-PRODUCTION-7C3AED?style=for-the-badge" alt="Production"/>
+
+<br><br>
+
 ### `BUILD → SHIP → MEASURE → IMPROVE`
 
-**Engineering digital products for real-world problems.**
+**Engineering software that solves real-world problems.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/juan-monza-72ba89278/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/JuanMonza">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:juanmonza@icloud.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" alt="Email"/>
+</a>
 
 </div>
