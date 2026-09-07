@@ -1,4 +1,3 @@
-\<div align="center">
 
 # Hola, soy Juan Monza 
 
@@ -7,8 +6,6 @@
 **SaaS · Software Engineering · AI Solutions · Business Systems · Digital Products**
 
 Diseño y desarrollo soluciones de software combinando **ingeniería Full Stack, arquitectura de aplicaciones y Prompt Engineering**, transformando necesidades reales de negocio en productos digitales modernos, escalables e inteligentes.
-
-\</div>
 
 ---
 
