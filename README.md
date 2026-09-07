@@ -4,7 +4,7 @@
 
 ### Full Stack Software Engineer · AI & Prompt Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+software+from+idea+to+production;Full+Stack+Engineering+%C2%B7+Software+Architecture;AI+%26+Prompt+Engineering+%C2%B7+Automation;SaaS+%C2%B7+Business+Systems+%C2%B7+Digital+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+software+from+idea+to+production;Full+Stack+Engineering+%C2%B7+Software+Architecture;AI+%26+Prompt+Engineering+%C2%B7+Automation;SaaS+%C2%B7+Business+Systems+%C2%B7+Digital+Products" alt="Typing SVG"/>
 
 <br>
 
@@ -81,32 +81,35 @@ Diseño y desarrollo soluciones de software combinando **ingeniería Full Stack,
 </div>
 
 ---
-
 # Connect with me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/juan-monza-72ba89278/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn"/>
 </a>
 
-<a href="https://www.instagram.com/el_juancho_mz/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://www.instagram.com/el_juancho_mz/">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" alt="Instagram"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.facebook.com/juankux.BAE" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+<a href="https://www.facebook.com/juankux.BAE">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="42" alt="Facebook"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:juanmonza@icloud.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" alt="Email"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/JuanMonza" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/JuanMonza">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" alt="GitHub"/>
 </a>
 
 </div>
+
 
 ---
 
@@ -337,21 +340,31 @@ Trabajo desde el análisis del problema y la definición de la arquitectura hast
 
 ### Engineering Focus
 
-**Full Stack Development**
+<img src="https://img.shields.io/badge/Full_Stack_Development-1D4ED8?style=for-the-badge" alt="Full Stack Development"/>
 
-`████████████████████░` **Advanced**
+<img src="https://progress-bar.xyz/92/?title=&width=420&color=1D4ED8" alt="Full Stack Development"/>  
+**Advanced**
 
-**Software Architecture**
+<br>
 
-`███████████████████░░` **Advanced**
+<img src="https://img.shields.io/badge/Software_Architecture-6D28D9?style=for-the-badge" alt="Software Architecture"/>
 
-**Business Systems**
+<img src="https://progress-bar.xyz/88/?title=&width=420&color=6D28D9" alt="Software Architecture"/>  
+**Advanced**
 
-`███████████████████░░` **Strong**
+<br>
 
-**Digital Products**
+<img src="https://img.shields.io/badge/Business_Systems-15803D?style=for-the-badge" alt="Business Systems"/>
 
-`██████████████████░░░` **Strong**
+<img src="https://progress-bar.xyz/86/?title=&width=420&color=15803D" alt="Business Systems"/>  
+**Strong**
+
+<br>
+
+<img src="https://img.shields.io/badge/Digital_Products-A16207?style=for-the-badge" alt="Digital Products"/>
+
+<img src="https://progress-bar.xyz/84/?title=&width=420&color=A16207" alt="Digital Products"/>  
+**Strong**
 
 </td>
 
@@ -359,26 +372,38 @@ Trabajo desde el análisis del problema y la definición de la arquitectura hast
 
 ### Technology Focus
 
-**Next.js / React / TypeScript**
+<img src="https://img.shields.io/badge/Next.js_/_React_/_TypeScript-0891B2?style=for-the-badge" alt="Next.js React TypeScript"/>
 
-`████████████████████░` **Primary Stack**
+<img src="https://progress-bar.xyz/93/?title=&width=420&color=0891B2" alt="Next.js React TypeScript"/>  
+**Primary Stack**
 
-**Backend & APIs**
+<br>
 
-`███████████████████░░` **Strong**
+<img src="https://img.shields.io/badge/Backend_&_APIs-166534?style=for-the-badge" alt="Backend and APIs"/>
 
-**Database Engineering**
+<img src="https://progress-bar.xyz/87/?title=&width=420&color=166534" alt="Backend and APIs"/>  
+**Strong**
 
-`██████████████████░░░` **Strong**
+<br>
 
-**AI & Prompt Engineering**
+<img src="https://img.shields.io/badge/Database_Engineering-7E22CE?style=for-the-badge" alt="Database Engineering"/>
 
-`███████████████████░░` **Specialized**
+<img src="https://progress-bar.xyz/83/?title=&width=420&color=7E22CE" alt="Database Engineering"/>  
+**Strong**
+
+<br>
+
+<img src="https://img.shields.io/badge/AI_&_Prompt_Engineering-4F46E5?style=for-the-badge" alt="AI and Prompt Engineering"/>
+
+<img src="https://progress-bar.xyz/89/?title=&width=420&color=4F46E5" alt="AI and Prompt Engineering"/>  
+**Specialized**
 
 </td>
 
 </tr>
 </table>
+
+
 
 <br>
 
@@ -401,37 +426,93 @@ Trabajo desde el análisis del problema y la definición de la arquitectura hast
 
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JuanMonza&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Juan Monza GitHub Stats"/>
+<table>
+<tr>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMonza&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Juan Monza Top Languages"/>
+<td width="50%" align="center">
 
-<br><br>
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanMonza&theme=github_dark"
+  alt="Juan Monza GitHub Stats"
+/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanMonza&theme=github_dark" alt="Stats"/>
+</td>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuanMonza&theme=github_dark" alt="Most Commit Language"/>
+<td width="50%" align="center">
 
-<br><br>
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuanMonza&theme=github_dark"
+  alt="Most Commit Language"
+/>
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanMonza&theme=github_dark" alt="Profile Details"/>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanMonza&theme=github_dark"
+  alt="Repositories per Language"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuanMonza&theme=github_dark&utcOffset=-5"
+  alt="Productive Time"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img
+  width="98%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanMonza&theme=github_dark"
+  alt="Juan Monza GitHub Profile Details"
+/>
 
 </div>
 
 ---
-
-# Contribution Activity
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanMonza&bg_color=0d1117&color=58a6ff&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+# CONTRIBUTION ACTIVITY
+
+### Development activity across GitHub
+
+<br>
+
+<img
+  width="98%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=JuanMonza&bg_color=0d1117&color=58a6ff&line=7c3aed&point=ffffff&area=true&area_color=238636&hide_border=true&radius=10"
+  alt="Juan Monza Contribution Graph"
+/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=JuanMonza&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+<img
+  src="https://streak-stats.demolab.com?user=JuanMonza&theme=tokyonight&hide_border=true&border_radius=10"
+  alt="Juan Monza GitHub Streak"
+/>
 
 </div>
 
 ---
+
 
 <div align="center">
 
@@ -718,7 +799,7 @@ Proyecto orientado a digitalizar la experiencia del **Parque Conmemorativo** med
 <p>
 <img src="https://img.shields.io/badge/Landing_web-1D4ED8?style=flat-square" alt="Landing web"/>
 <img src="https://img.shields.io/badge/Virtual_Tours-6D28D9?style=flat-square" alt="Virtual Tours"/>
-<img src="https://img.shields.io/badge/360°-0891B2?style=flat-square" alt="360"/>
+<img src="https://img.shields.io/badge/360%C2%B0-0891B2?style=flat-square" alt="360"/>
 <img src="https://img.shields.io/badge/Multimedia-15803D?style=flat-square" alt="Multimedia"/>
 <img src="https://img.shields.io/badge/Mobile_Experience-A16207?style=flat-square" alt="Mobile Experience"/>
 <img src="https://img.shields.io/badge/Physical_%C3%97_Digital-7E22CE?style=flat-square" alt="Physical Digital"/>
@@ -1614,7 +1695,7 @@ const juanMonza = {
 <p>
 <img src="https://img.shields.io/badge/Matterport-1D4ED8?style=flat-square" alt="Matterport"/>
 <img src="https://img.shields.io/badge/Marzipano-0891B2?style=flat-square" alt="Marzipano"/>
-<img src="https://img.shields.io/badge/360°_Experiences-0369A1?style=flat-square" alt="360 Experiences"/>
+<img src="https://img.shields.io/badge/360%C2%B0_Experiences-0369A1?style=flat-square" alt="360 Experiences"/>
 <img src="https://img.shields.io/badge/Web_AR-6D28D9?style=flat-square" alt="Web AR"/>
 <img src="https://img.shields.io/badge/Interactive_Maps-15803D?style=flat-square" alt="Interactive Maps"/>
 <img src="https://img.shields.io/badge/Dashboards-0F766E?style=flat-square" alt="Dashboards"/>
