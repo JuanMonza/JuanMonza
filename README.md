@@ -1,7 +1,6 @@
-
 <div align="center">
 
-# Hola, soy Juan Monza
+# Hola, soy Juan Monza 👋
 
 ### Full Stack Software Engineer · AI & Prompt Engineer
 
@@ -41,7 +40,7 @@ Mi experiencia incluye:
 - Realidad aumentada
 - UX/UI orientado a producto
 
-> **Mi objetivo no es solamente escribir código: es diseñar y construir tecnología que convierta problemas reales en soluciones digitales.**
+> **Construyo productos digitales que conectan software, negocio y experiencia de usuario.**
 
 ---
 
@@ -67,23 +66,6 @@ Aura busca unificar diferentes procesos dentro de una sola aplicación administr
 - Roles y permisos
 - Panel administrativo
 - Configuración centralizada
-
-### Arquitectura
-
-```text
-Master Admin
-      │
-      ├── Sedes
-      │     ├── Sala 01
-      │     ├── Sala 02
-      │     └── Sala N
-      │
-      ├── Obituarios
-      ├── Multimedia
-      ├── Presentaciones
-      ├── Configuración
-      └── Usuarios / Roles
-```
 
 ### Stack
 
@@ -116,22 +98,6 @@ El proyecto integra múltiples módulos corporativos dentro de una arquitectura 
 ### Tecnologías
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `MySQL` · `Framer Motion` · `bcrypt` · `JOSE` · `Recharts` · `QR` · `XLSX` · `Nodemailer`
-
-### Enfoque
-
-```text
-UX/UI
-  +
-Frontend
-  +
-Backend
-  +
-Data
-  +
-Business Logic
-  =
-Digital Ecosystem
-```
 
 ---
 
@@ -170,16 +136,6 @@ El trabajo combina desarrollo, refactorización, experiencia de usuario y actual
 
 Proyecto desarrollado para integrar tecnología, presencia digital y herramientas comerciales dentro de un ecosistema orientado a marketing digital.
 
-### Áreas trabajadas
-
-- Desarrollo web
-- Diseño de interfaces
-- Identidad digital
-- Componentes visuales
-- Experiencia responsive
-- Integración de herramientas comerciales
-- Optimización de presencia digital
-
 El proyecto representa la integración entre **software, producto y estrategia digital**.
 
 ---
@@ -190,23 +146,9 @@ El proyecto representa la integración entre **software, producto y estrategia d
 
 Proyecto orientado a digitalizar la experiencia del **Parque Conmemorativo** mediante herramientas web e inmersivas.
 
-### Funcionalidades y experiencias
-
-- Landing web
-- Recorridos virtuales
-- Experiencia 360°
-- Integración de espacios físicos y digitales
-- Contenido multimedia
-- Visualización interactiva
-- Experiencias optimizadas para móviles
-- Integración Matterport
-- Integración Marzipano
-
 ### Tecnologías
 
 `Next.js` · `JavaScript` · `Matterport` · `Marzipano` · `360°`
-
-El proyecto busca transformar la forma en que los usuarios pueden conocer y explorar los espacios del parque mediante tecnología digital.
 
 ---
 
@@ -214,37 +156,7 @@ El proyecto busca transformar la forma en que los usuarios pueden conocer y expl
 
 ### AR · QR · Interactive Experience
 
-Experiencia educativa e interactiva diseñada para conectar espacios físicos con contenido digital.
-
-El proyecto utiliza códigos QR y experiencias web para crear una dinámica de exploración orientada a visitantes.
-
-### Concepto
-
-```text
-Visitante
-    ↓
-Código QR
-    ↓
-Experiencia Digital
-    ↓
-Contenido Interactivo
-    ↓
-Exploración
-    ↓
-Registro / Participación
-```
-
-### Componentes
-
-- Códigos QR
-- Experiencias móviles
-- Realidad aumentada
-- Contenido educativo
-- Interacción digital
-- Registro de visitantes
-- Captura de información
-- Exportación de datos
-- Experiencias gamificadas
+Experiencia educativa e interactiva diseñada para conectar espacios físicos con contenido digital mediante códigos QR, experiencias móviles y contenido interactivo.
 
 ### Tecnologías
 
@@ -254,129 +166,280 @@ Registro / Participación
 
 # Tech Stack
 
-## Frontend
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+### Frontend
 
-## Backend
+**Core**
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-</p>
+`Next.js`  
+`React`  
+`TypeScript`  
+`JavaScript`
 
-## Databases
+**UI & Styling**
 
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
+`Tailwind CSS`  
+`HTML5`  
+`CSS3`
 
-## AI & Prompt Engineering
+**Experience**
 
-<p>
-<img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
-<img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/AI_Workflows-5A29E4?style=for-the-badge" alt="AI Workflows"/>
-</p>
+`Responsive Design`  
+`Component Architecture`  
+`UX/UI`
 
-Experiencia aplicada en:
+</td>
 
-`Prompt Engineering` · `AI-assisted Development` · `Structured Prompting` · `AI Workflows` · `Generative AI`
+<td width="50%" valign="top">
 
-## Tools & Infrastructure
+### Backend
 
-<p>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+**Server**
 
----
+`Node.js`  
+`Express.js`
 
-# Backend & Architecture
+**ORM & Data**
 
-Además del desarrollo de interfaces, trabajo con los diferentes componentes que forman una aplicación empresarial completa.
+`Prisma ORM`
 
-```text
-┌─────────────────────┐
-│       Client        │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│      Frontend       │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│    API / Server     │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│   Business Logic    │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│      Database       │
-└─────────────────────┘
-```
+**Security**
 
-### Experiencia
+`Authentication`  
+`RBAC`  
+`bcrypt`  
+`JOSE`
 
-`REST APIs` · `Authentication` · `RBAC` · `bcrypt` · `JOSE` · `Prisma ORM` · `Database Design` · `Server Actions` · `Protected Routes`
+**Architecture**
 
----
+`REST APIs`  
+`Server Actions`  
+`Protected Routes`
 
-# Integraciones & Data
+</td>
+</tr>
 
-He desarrollado soluciones relacionadas con:
+<tr>
+<td width="50%" valign="top">
 
-- APIs REST
-- Supabase
-- Firebase
-- MySQL
-- PostgreSQL
-- Wompi / PSE
-- Sistemas QR
-- Barcodes
-- Generación y lectura de PDF
-- Exportación XLSX
-- Dashboards
-- Recharts
-- Nodemailer
-- Matterport
-- Marzipano
+### Databases
+
+**Relational**
+
+`PostgreSQL`  
+`MySQL`
+
+**Cloud / BaaS**
+
+`Supabase`
+
+**NoSQL**
+
+`MongoDB`  
+`Firebase`
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI & Prompt Engineering
+
+**Prompt Engineering**
+
+`Structured Prompting`  
+`Context Design`  
+`Prompt Optimization`
+
+**AI Development**
+
+`AI-assisted Development`  
+`AI Workflows`  
+`Generative AI`
+
+**Applied AI**
+
+`Automation`  
+`Product Integration`  
+`Workflow Design`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# GitHub Activity
+# Tools & Infrastructure
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Development
+
+`VS Code`  
+`Git`  
+`GitHub`  
+`npm`  
+`Node.js`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Operating Systems
+
+`Windows`  
+`Linux`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Cloud & Deployment
+
+`Vercel`  
+`Environment Variables`  
+`Production Deployments`  
+`Domain Configuration`
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### Servers
+
+`Web Servers`  
+`Application Servers`  
+`Database Servers`  
+`Production Environments`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Data & Integrations
+
+`REST APIs`  
+`Webhooks`  
+`JSON`  
+`XLSX`  
+`PDF`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Platforms
+
+`Supabase`  
+`Firebase`  
+`Matterport`  
+`Marzipano`
+
+</td>
+</tr>
+</table>
+
+---
+
+# Software Architecture
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JuanMonza&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Juan Monza GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMonza&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Juan Monza Top Languages"/>
+### From idea to production
 
 </div>
 
+```text
+┌──────────────────────────────────────────────────────────┐
+│                       USER / CLIENT                      │
+└────────────────────────────┬─────────────────────────────┘
+                             │
+                             ▼
+┌──────────────────────────────────────────────────────────┐
+│                         FRONTEND                         │
+│            Next.js · React · TypeScript · UI            │
+└────────────────────────────┬─────────────────────────────┘
+                             │
+                             ▼
+┌──────────────────────────────────────────────────────────┐
+│                       API / SERVER                       │
+│              Node.js · Express · Server Actions         │
+└────────────────────────────┬─────────────────────────────┘
+                             │
+                             ▼
+┌──────────────────────────────────────────────────────────┐
+│                     BUSINESS LOGIC                       │
+│        Authentication · Roles · Rules · Workflows       │
+└────────────────────────────┬─────────────────────────────┘
+                             │
+                             ▼
+┌──────────────────────────────────────────────────────────┐
+│                          DATA                            │
+│ PostgreSQL · MySQL · Supabase · MongoDB · Firebase      │
+└────────────────────────────┬─────────────────────────────┘
+                             │
+                             ▼
+┌──────────────────────────────────────────────────────────┐
+│                 DEPLOYMENT & PRODUCTION                  │
+│           Vercel · Servers · GitHub · Monitoring        │
+└──────────────────────────────────────────────────────────┘
+```
+
+### Engineering capabilities
+
+`Software Architecture` · `Full Stack Development` · `Authentication` · `RBAC` · `Database Design` · `API Design` · `Scalable Applications` · `Production Deployment`
+
 ---
 
-# Developer Profile
+# Integrations & Digital Systems
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Business Integrations
+
+- Wompi / PSE
+- REST APIs
+- Authentication systems
+- Email integrations
+- QR systems
+- Barcode systems
+- Data export
+
+</td>
+
+<td width="50%" valign="top">
+
+### Digital Experiences
+
+- Matterport
+- Marzipano
+- 360° Experiences
+- Web AR
+- Interactive maps
+- Dashboards
+- Multimedia platforms
+
+</td>
+</tr>
+</table>
+
+---
+
+# Engineering Profile
+
+<div align="center">
+
+### Software · Architecture · AI · Product
+
+</div>
 
 ```typescript
 const juanMonza = {
@@ -385,49 +448,62 @@ const juanMonza = {
     "AI & Prompt Engineer"
   ],
 
-  focus: [
-    "Business Applications",
-    "SaaS",
-    "AI Solutions",
-    "Digital Products",
-    "Web Platforms",
-    "Process Digitalization"
-  ],
+  engineering: {
+    frontend: [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "Tailwind CSS"
+    ],
 
-  frontend: [
-    "Next.js",
-    "React",
-    "TypeScript",
-    "JavaScript",
-    "Tailwind CSS"
-  ],
+    backend: [
+      "Node.js",
+      "Express",
+      "Prisma"
+    ],
 
-  backend: [
-    "Node.js",
-    "Express",
-    "Prisma"
-  ],
-
-  databases: [
-    "PostgreSQL",
-    "MySQL",
-    "Supabase",
-    "MongoDB"
-  ],
+    databases: [
+      "PostgreSQL",
+      "MySQL",
+      "Supabase",
+      "MongoDB",
+      "Firebase"
+    ]
+  },
 
   specialties: [
     "Software Architecture",
     "Prompt Engineering",
     "AI Workflows",
-    "Interactive Experiences",
     "Business Systems",
-    "Scalable Digital Products"
+    "Digital Products",
+    "Interactive Experiences"
   ],
 
-  philosophy:
-    "Build technology that solves real-world problems."
+  mindset: [
+    "Build",
+    "Ship",
+    "Measure",
+    "Improve"
+  ],
+
+  mission:
+    "Transform real-world problems into scalable digital products."
 };
 ```
+
+---
+
+# Current Focus
+
+<div align="center">
+
+### Building digital systems that connect technology with real business operations
+
+`SaaS` · `Enterprise Platforms` · `AI Workflows` · `Automation` · `Digital Experiences`
+
+</div>
 
 ---
 
@@ -439,13 +515,12 @@ const juanMonza = {
 
 Estoy abierto a oportunidades, colaboraciones y proyectos relacionados con:
 
-**Full Stack Development · Prompt Engineering · SaaS · Software Engineering · AI Solutions · Digital Products**
+**Full Stack Development · Software Engineering · Prompt Engineering · SaaS · AI Solutions · Digital Products**
 
 <br/>
 
-### `Build. Ship. Improve.`
+### `Build. Ship. Measure. Improve.`
 
-**Software diseñado para resolver problemas reales.**
+**Engineering digital products for real-world problems.**
 
 </div>
-
