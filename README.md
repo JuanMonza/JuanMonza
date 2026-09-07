@@ -111,6 +111,7 @@ Trabajo desde el análisis del problema y la definición de la arquitectura hast
 ## 01
 
 </td>
+
 <td width="92%">
 
 ## Aura 2026 JR
@@ -181,6 +182,7 @@ Aura busca unificar diferentes procesos dentro de una sola aplicación administr
 ## 02
 
 </td>
+
 <td width="92%">
 
 ## Jardines del Renacer Web 2026
@@ -253,6 +255,7 @@ Integrations ─┘
 ## 03
 
 </td>
+
 <td width="92%">
 
 ## Renacer Mascotas V2
@@ -314,6 +317,7 @@ El trabajo combina desarrollo, refactorización, experiencia de usuario y actual
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ## 04 — Locos Digital Marketing
@@ -358,6 +362,7 @@ Proyecto orientado a digitalizar la experiencia del **Parque Conmemorativo** med
 `Matterport` · `Marzipano` · `360°`
 
 </td>
+
 </tr>
 </table>
 
@@ -377,6 +382,7 @@ El proyecto utiliza códigos QR y experiencias web para crear una dinámica de e
 
 <table>
 <tr>
+
 <td width="33%" align="center">
 
 ### SCAN
@@ -406,6 +412,7 @@ Accede a contenido educativo e interactivo.
 Registro, captura de información y participación.
 
 </td>
+
 </tr>
 </table>
 
@@ -435,6 +442,7 @@ Registro, captura de información y participación.
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ## Frontend
@@ -482,9 +490,11 @@ Registro, captura de información y participación.
 </p>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ## Data
@@ -526,6 +536,7 @@ Registro, captura de información y participación.
 > Applied AI for product development, workflow design and business-oriented automation.
 
 </td>
+
 </tr>
 </table>
 
@@ -535,6 +546,7 @@ Registro, captura de información y participación.
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### Development
@@ -557,7 +569,7 @@ Registro, captura de información y participación.
 ### Operating Systems
 
 <p>
-<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
@@ -583,9 +595,11 @@ Registro, captura de información y participación.
 </p>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="33%" valign="top">
 
 ### Servers
@@ -627,6 +641,7 @@ Registro, captura de información y participación.
 </p>
 
 </td>
+
 </tr>
 </table>
 
@@ -634,53 +649,409 @@ Registro, captura de información y participación.
 
 <div align="center">
 
+# ENGINEERING METRICS
+
+### Building · Shipping · Scaling
+
+</div>
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+## 14+
+
+**Software Projects**
+
+`2026`
+
+</td>
+
+<td width="25%" align="center">
+
+## 217+
+
+**Development Commits**
+
+`Engineering Activity`
+
+</td>
+
+<td width="25%" align="center">
+
+## 1.3K+
+
+**Development Hours**
+
+`Product Engineering`
+
+</td>
+
+<td width="25%" align="center">
+
+## FULL STACK
+
+**End-to-End**
+
+`Idea → Production`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Engineering Focus
+
+**Full Stack Development**
+
+`████████████████████░` **Advanced**
+
+**Software Architecture**
+
+`███████████████████░░` **Advanced**
+
+**Business Systems**
+
+`███████████████████░░` **Strong**
+
+**Digital Products**
+
+`██████████████████░░░` **Strong**
+
+</td>
+
+<td width="50%" valign="top">
+
+### Technology Focus
+
+**Next.js / React / TypeScript**
+
+`████████████████████░` **Primary Stack**
+
+**Backend & APIs**
+
+`███████████████████░░` **Strong**
+
+**Database Engineering**
+
+`██████████████████░░░` **Strong**
+
+**AI & Prompt Engineering**
+
+`███████████████████░░` **Specialized**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PRODUCTS-BUILDING-0F172A?style=for-the-badge" alt="Products"/>
+<img src="https://img.shields.io/badge/ARCHITECTURE-SCALABLE-2563EB?style=for-the-badge" alt="Architecture"/>
+<img src="https://img.shields.io/badge/AI-INTEGRATED-7C3AED?style=for-the-badge" alt="AI"/>
+<img src="https://img.shields.io/badge/DEPLOYMENT-PRODUCTION-059669?style=for-the-badge" alt="Deployment"/>
+
+</div>
+
+---
+
+<div align="center">
+
 # SOFTWARE ARCHITECTURE
 
-### From client interaction to production infrastructure
+### From business requirements to production infrastructure
+
+`CLIENT` → `EXPERIENCE` → `APPLICATION` → `LOGIC` → `DATA` → `PRODUCTION`
+
+</div>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### 01 · CLIENT
+
+<img src="https://img.shields.io/badge/ENTRY-USER%20EXPERIENCE-2563EB?style=for-the-badge" alt="Client"/>
+
+<br><br>
+
+Web Applications
+
+Responsive Interfaces
+
+Interactive Experiences
+
+Mobile Experiences
+
+<br><br>
+
+`UX/UI`
+
+`Responsive`
+
+`Interaction`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 02 · FRONTEND
+
+<img src="https://img.shields.io/badge/LAYER-FRONTEND-06B6D4?style=for-the-badge" alt="Frontend"/>
+
+<br><br>
+
+Next.js
+
+React
+
+TypeScript
+
+Tailwind CSS
+
+<br><br>
+
+`Components`
+
+`State`
+
+`Rendering`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 03 · API / SERVER
+
+<img src="https://img.shields.io/badge/LAYER-BACKEND-16A34A?style=for-the-badge" alt="Backend"/>
+
+<br><br>
+
+Node.js
+
+Express
+
+Server Actions
+
+REST APIs
+
+<br><br>
+
+`Endpoints`
+
+`Services`
+
+`Validation`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### 04 · BUSINESS LOGIC
+
+<img src="https://img.shields.io/badge/CORE-BUSINESS%20LOGIC-F59E0B?style=for-the-badge" alt="Business Logic"/>
+
+<br><br>
+
+Authentication
+
+Roles & Permissions
+
+Business Rules
+
+Automation
+
+<br><br>
+
+`RBAC`
+
+`Workflows`
+
+`Security`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 05 · DATA
+
+<img src="https://img.shields.io/badge/LAYER-DATA-7C3AED?style=for-the-badge" alt="Data"/>
+
+<br><br>
+
+PostgreSQL
+
+MySQL
+
+Supabase
+
+MongoDB
+
+Firebase
+
+<br><br>
+
+`SQL`
+
+`NoSQL`
+
+`Data Design`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 06 · PRODUCTION
+
+<img src="https://img.shields.io/badge/STAGE-PRODUCTION-DC2626?style=for-the-badge" alt="Production"/>
+
+<br><br>
+
+Vercel
+
+Servers
+
+GitHub
+
+Domains
+
+Deployments
+
+<br><br>
+
+`Cloud`
+
+`Production`
+
+`Infrastructure`
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+### Architecture Flow
 
 </div>
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                       USER / CLIENT                      │
-└────────────────────────────┬─────────────────────────────┘
-                             │
-                             ▼
-┌──────────────────────────────────────────────────────────┐
-│                         FRONTEND                         │
-│            Next.js · React · TypeScript · UI            │
-└────────────────────────────┬─────────────────────────────┘
-                             │
-                             ▼
-┌──────────────────────────────────────────────────────────┐
-│                       API / SERVER                       │
-│              Node.js · Express · Server Actions         │
-└────────────────────────────┬─────────────────────────────┘
-                             │
-                             ▼
-┌──────────────────────────────────────────────────────────┐
-│                     BUSINESS LOGIC                       │
-│        Authentication · Roles · Rules · Workflows       │
-└────────────────────────────┬─────────────────────────────┘
-                             │
-                             ▼
-┌──────────────────────────────────────────────────────────┐
-│                          DATA                            │
-│ PostgreSQL · MySQL · Supabase · MongoDB · Firebase      │
-└────────────────────────────┬─────────────────────────────┘
-                             │
-                             ▼
-┌──────────────────────────────────────────────────────────┐
-│                 DEPLOYMENT & PRODUCTION                  │
-│           Vercel · Servers · GitHub · Monitoring        │
-└──────────────────────────────────────────────────────────┘
+BUSINESS REQUIREMENT
+        │
+        ▼
+ PRODUCT / UX DESIGN
+        │
+        ▼
+ FRONTEND APPLICATION
+        │
+        ▼
+    API / SERVER
+        │
+        ▼
+  BUSINESS LOGIC
+        │
+        ▼
+ DATABASE & SERVICES
+        │
+        ▼
+ DEPLOYMENT / CLOUD
+        │
+        ▼
+   PRODUCTION SYSTEM
 ```
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+### PLAN
+
+Requirements  
+Architecture
+
+</td>
+
+<td align="center" width="20%">
+
+### BUILD
+
+Frontend  
+Backend
+
+</td>
+
+<td align="center" width="20%">
+
+### CONNECT
+
+APIs  
+Databases
+
+</td>
+
+<td align="center" width="20%">
+
+### SHIP
+
+Deployment  
+Production
+
+</td>
+
+<td align="center" width="20%">
+
+### IMPROVE
+
+Analytics  
+Iteration
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-`Software Architecture` · `Full Stack Development` · `Authentication`
+### Engineering Capabilities
 
-`RBAC` · `Database Design` · `API Design` · `Scalable Applications` · `Production Deployment`
+<p>
+<img src="https://img.shields.io/badge/Software_Architecture-1E293B?style=flat-square" alt="Software Architecture"/>
+<img src="https://img.shields.io/badge/Full_Stack_Development-2563EB?style=flat-square" alt="Full Stack"/>
+<img src="https://img.shields.io/badge/API_Design-0284C7?style=flat-square" alt="API Design"/>
+<img src="https://img.shields.io/badge/Authentication-7C3AED?style=flat-square" alt="Authentication"/>
+<img src="https://img.shields.io/badge/RBAC-9333EA?style=flat-square" alt="RBAC"/>
+<img src="https://img.shields.io/badge/Database_Design-059669?style=flat-square" alt="Database Design"/>
+<img src="https://img.shields.io/badge/Scalable_Applications-D97706?style=flat-square" alt="Scalable Applications"/>
+<img src="https://img.shields.io/badge/Production_Deployment-DC2626?style=flat-square" alt="Production Deployment"/>
+</p>
 
 </div>
 
@@ -696,6 +1067,7 @@ Registro, captura de información y participación.
 
 <table>
 <tr>
+
 <td width="25%" align="center" valign="top">
 
 ### ⚙️ Full Stack
@@ -710,7 +1082,7 @@ Production
 
 <td width="25%" align="center" valign="top">
 
-### Architecture
+### 🏗️ Architecture
 
 System Design  
 Business Logic  
@@ -721,7 +1093,7 @@ Scalable Systems
 
 <td width="25%" align="center" valign="top">
 
-### AI Engineering
+### 🧠 AI Engineering
 
 Prompt Engineering  
 AI Workflows  
@@ -732,7 +1104,7 @@ Generative AI
 
 <td width="25%" align="center" valign="top">
 
-###Product
+### 🚀 Product
 
 SaaS  
 Business Systems  
@@ -740,6 +1112,7 @@ Digital Products
 Interactive Experiences
 
 </td>
+
 </tr>
 </table>
 
@@ -817,6 +1190,7 @@ const juanMonza = {
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### Business Systems
@@ -848,6 +1222,7 @@ const juanMonza = {
 </p>
 
 </td>
+
 </tr>
 </table>
 
